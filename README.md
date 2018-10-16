@@ -1,9 +1,12 @@
+# Other languages
+To see this article in PT-BR access [PT-BR](README-PT-BR.md)
+
 # Hacktoberfest at Microsoft
 
-For all Hacktoberfest information please visit: https://aka.ms/hacktoberfest
+For all Hacktoberfest information please visit: [Hacktoberfest Microsoft](https://aka.ms/hacktoberfest)
 
 # How to participate
-1. **Find a project that looks interesting**. You can browse all our of repos on https://opensource.microsoft.com and filter by keyword, trending, stars, forks, tags, and more.
+1. **Find a project that looks interesting**. You can browse all our of repos on [Microsoft Repos](https://opensource.microsoft.com) and filter by keyword, trending, stars, forks, tags, and more.
 2. Perhaps you already have a great idea for improving the project. If not, **browse the list of open issues**. My favorite tip: look for issues labeled help-wanted or good-first-issue.
 3. **Make a Pull Request** to improve the project’s code or documentation.
 4. **[Important]** Complete [this form](https://aka.ms/hacktoberfestshirt) to make sure we enter you in the challenge and register your participation. We’ll send instructions for receiving your shirt after Hacktoberfest ends.
@@ -15,7 +18,7 @@ For all Hacktoberfest information please visit: https://aka.ms/hacktoberfest
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+the rights to use your contribution. For details, visit [CLA](https://cla.microsoft.com).
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
@@ -35,9 +38,9 @@ see the [LICENSE](LICENSE) file, and grant you a license to any code in the repo
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
 may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
 The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+Microsoft's general trademark guidelines can be found at [Microsoft's general guidelines](http://go.microsoft.com/fwlink/?LinkID=254653).
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
+Privacy information can be found at [Privacy](https://privacy.microsoft.com/en-us/)
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
