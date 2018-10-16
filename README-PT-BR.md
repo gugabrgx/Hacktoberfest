@@ -35,9 +35,9 @@ arquivo [LICENSE-CODE](LICENSE-CODE).
 Microsoft, Windows, Microsoft Azure e/ou outros produtos e serviços da Microsoft mencionados na documentação
 podem ser marcas comerciais ou marcas registradas da Microsoft nos Estados Unidos e/ou em outros países.
 As licenças deste projeto não concedem a você direitos para usar nomes, logotipos ou marcas comerciais da Microsoft.
-As diretrizes gerais de marca comercial da Microsoft podem ser encontradas em http://go.microsoft.com/fwlink/?LinkID=254653.
+As diretrizes gerais de marca comercial da Microsoft podem ser encontradas em [Diretrizes gerais da Microsoft](http://go.microsoft.com/fwlink/?LinkID=254653).
 
-Informações sobre privacidade podem ser encontradas em https://privacy.microsoft.com/pt-br/
+Informações sobre privacidade podem ser encontradas em [Privacidade](https://privacy.microsoft.com/pt-br/).
 
 A Microsoft e quaisquer colaboradores reservam todos os outros direitos, seja sob seus respectivos direitos autorais, patentes,
 ou marcas registradas, seja por implicação, preclusão ou de outra forma.
